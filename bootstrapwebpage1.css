@@ -1,0 +1,17 @@
+.sliderimage{
+    height:600px;
+    margin-top: 10px;
+}
+.sliderData{
+    background: rgba(0,0,0,0.4);
+}
+.card-img-top{
+    height:300px;
+}
+.form1{
+    border:2px solid grey;
+    width:450px;
+    height:500px;
+    margin-right: 10px;
+    border-radius: 10px;
+}
